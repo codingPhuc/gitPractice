@@ -5,3 +5,6 @@ con mmeme
 con heo 
 con be
 con ga
+con nguoi 
+con khi 
+con meo
